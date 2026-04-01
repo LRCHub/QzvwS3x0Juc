@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "ネオネオン -カズイ Cover-",
+  "base_track": "弱虫モンブラン (カズイ Cover)",
   "base_artist": "MILGRAM カズイ (CV: 竹内良太)",
-  "createdAt": "2026-03-31T13:19:59.824542Z",
+  "createdAt": "2026-04-01T10:21:37.733419Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ネオネオン -カズイ Cover-",
+      "title": "弱虫モンブラン (カズイ Cover)",
       "artist": "MILGRAM カズイ (CV: 竹内良太)",
       "has_synced": false,
-      "path": "select/pl_01_ネオネオン_-カズイ_Cover-_MILGRAM_カズイ_(CV__竹内良太).txt"
+      "path": "select/pl_01_弱虫モンブラン_(カズイ_Cover)_MILGRAM_カズイ_(CV__竹内良太).txt"
     }
   ]
 }
